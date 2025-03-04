@@ -1,0 +1,38 @@
+*{
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0q;
+  padding: 0px;
+}
+header{background-color: green;
+  color: white;
+  padding: 15px;
+}
+.anchor{
+  text-decoration: none;
+  color: white;
+}
+.head{
+  text-align: center
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 90px;
+  padding-left: 10%;
+  padding-right: 10;
+  margin: 2px auto;
+  font-size: 12px;
+}
+section{
+  background-color: #192a56;
+  padding: 5px;
+}
